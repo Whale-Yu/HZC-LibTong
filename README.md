@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Chrome-red.svg)
 
-> 一款专为湖州学院实验室准入考试设计的题库搜索工具
+> 一款专为湖州学院实验室准入考试设计的题库搜索工具(湖院实验通)
 
 ## 🌟 简介
 
