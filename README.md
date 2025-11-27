@@ -1,4 +1,4 @@
-# 湖院实验通 (HZC LibTong)
+# 湖院实验通 (HZC-LibTong)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Chrome-red.svg)
@@ -7,7 +7,7 @@
 
 ## 01 功能简介
 
-湖院实验通（HZC LibTong）是一款浏览器扩展，可在指定网站上提供悬浮式题库搜索功能，帮助用户快速查找实验室安全准入考试的相关题目和答案。
+湖院实验通（HZC-LibTong）是一款浏览器扩展，可在指定网站上提供悬浮式题库搜索功能，帮助用户快速查找实验室安全准入考试的相关题目和答案。
 ![img1.png](img1.png)
 
 ### 核心功能
