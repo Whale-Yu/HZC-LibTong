@@ -23,8 +23,9 @@
 2. 打开 Chrome 浏览器，进入 `chrome://extensions/`
 3. 开启开发者模式
 4. 点击"加载已解压的扩展程序"
-5. 选择项目中的 `HZC_LibTong` 文件夹
-6. 
+5. 选择项目中的 `HZC_LibTong` 文件夹（至最里面的文件夹为止）
+
+注：edge浏览器步骤类似
 ## 03 使用方法
 
 1. 访问目标网站: `https://zysys.zjhzu.edu.cn/`
