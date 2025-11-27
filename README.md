@@ -19,7 +19,7 @@
 
 ## 02 安装步骤
 
-1. 下载项目到本地 ([点我快速下载]([https://github.com/Whale-Yu/HZC-LibTong](https://github.com/Whale-Yu/HZC-LibTong/releases/download/V1.0/HZC_LibTong.zip)))
+1. 下载项目到本地 ([点我快速下载](https://github.com/Whale-Yu/HZC-LibTong/releases/download/V1.0/HZC_LibTong.zip))
 2. 打开 Chrome 浏览器，进入 `chrome://extensions/`
 3. 开启开发者模式
 4. 点击"加载已解压的扩展程序"
