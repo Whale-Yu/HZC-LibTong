@@ -21,15 +21,15 @@
 ## 02 安装步骤
 
 1. 下载/克隆项目到本地 ([下载链接（点我）：HZC_LibTong.zip](https://github.com/Whale-Yu/HZC-LibTong/releases/download/V1.0/HZC_LibTong.zip))
-2. 打开 Chrome 浏览器，搜索框输入： `chrome://extensions/`  （或者点击插件图标 -> 管理扩展程序）
-3. 开启开发者模式
+2. 打开 Chrome 浏览器，搜索框输入： `chrome://extensions/`  （或者点击插件图标 -> 管理扩展程序） 
+3. 开启开发者模式 
 4. 点击"加载已解压的扩展程序"
-5. 选择项目中的 `HZC_LibTong` 文件夹（至最里面的文件夹为止）
+5. 选择解压好的 `HZC_LibTong` 文件夹（选择最里面的文件夹）
 
 注：Edge浏览器安装步骤类似；其他浏览器未经测试
 
 ## 03 使用方法
-1. 访问目标网站: `https://zysys.zjhzu.edu.cn/`
+1. 访问 [实验室管理系统](https://zysys.zjhzu.edu.cn/aqzr.html#/Onlinelearning/List) ，并完成登录
 2. 页面右上角会出现悬浮窗
 3. 输入关键词进行搜索，或使用自动功能
 
@@ -64,7 +64,8 @@ HZC_LibTong/
 - 自行承担使用本工具的所有责任和风险
 
 ## 08 支持与反馈
-如果您发现任何问题、改进建议、题库更新，请联系开发者： 蟹老板 (v：tinyfisher19)
+如果您发现任何问题、改进建议、题库更新（发现加载的题库数量≠题库练习里的所有题目数量，请提issue或联系作者）
+- 开发者： 蟹老板 (v：tinyfisher19)
 
 ## 09 参考
 正式版的多选答题逻辑参考了以下开源项目，感谢 [himwei](https://gitee.com/himwei) 的开源贡献：[script.js](https://gitee.com/himwei/huzhou-university-laboratory-test/blob/master/script.js)
