@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Chrome-red.svg)
+![Downloads](https://img.shields.io/github/downloads/Whale-Yu/HZC-LibTong/total.svg)
 
 > 专为湖州学院实验室准入考试设计的题库搜索工具
 
